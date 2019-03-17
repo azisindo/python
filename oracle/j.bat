@@ -1,0 +1,1 @@
+SET PATH=C:\instantclient_11_2;%PATH%python%*
